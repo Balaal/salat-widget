@@ -154,3 +154,7 @@ swift build --product Salat && .build/debug/Salat --snapshot /tmp/salat-shots --
   - [Fraguando, Hassan II Mosque](https://commons.wikimedia.org/wiki/File:Llamada_a_oraci%C3%B3n_Mezquita_Hassan_II.wav) (CC BY-SA 4.0)
 - **Astronomy**: the solar-position formulas follow [PrayTimes.org](http://praytimes.org). The method offsets and the Moonsighting Committee seasonal model follow the [Adhan](https://github.com/batoulapps/adhan-swift) library.
 - **Made by** [Claude](https://claude.com/claude-code), for and published by [@mpcabd](https://github.com/mpcabd).
+
+## License
+
+The code is released under the [MIT License](LICENSE). The Azan recordings in `Resources/Audio` keep their original licenses, listed under [Credits](#credits).
